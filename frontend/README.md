@@ -89,14 +89,15 @@ npm start
 
 ## 📸 Screenshots
 
-### 🏠 Home Page  
-![Home Page](./screenshots/Screenshot_18-4-2025_74358_localhost.jpeg)
+### 🏠 Dashboard  
+![Dashboard](screenshots/dashboard.jpeg)
 
 ### ✍️ Create Issue  
-![Create Issue](./screenshots/Screenshot_18-4-2025_74530_localhost.jpeg)
+![Create Issue](screenshots/create-issue.jpeg)
 
 ### 📋 Issue Details  
-![Issue Details](./screenshots/kkll.png)
+![Issue Details](screenshots/kkll.png)
+
 
 
 
