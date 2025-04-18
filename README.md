@@ -93,7 +93,7 @@ npm start
 ![Dashboard](screenshots/dashboard.jpeg)
 
 ### ✍️ Create Issue  
-![Create Issue](screenshots/create-issue.jpeg)
+![Create Issue](https://github.com/santuguddu/issue-tracker/blob/9696360ab2cfb40f99365009e0fa69bc4b73cfc3/screenshots/create-issue.jpeg)
 
 ### 📋 Issue Details  
 ![Issue Details](screenshots/kkll.png)
